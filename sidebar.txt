@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[htu:home|Door43 (htu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-htu|d43-htu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-htu/archive/master.zip|d43-htu.zip]]
+
+**Recent Changes**
+{{changes>ns = htu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/htu|Ethnologue data]]
+
